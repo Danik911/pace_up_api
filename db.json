@@ -37,11 +37,84 @@
 },
 {
     "id": "5",
-    "name": "SALOMON SPEEDCROSS 6 GORE-TEX",
-    "description" : "SPEEDCROSS 6 GORE-TEX needs no introductions. True to its legendary roots and trail icon status, this version is lighter with an even more powerful, grippy connection to the ground and faster mud evacuation. Featuring a waterproof and breathable Gore-Tex membrane ideal for wet and muddy conditions, a revamped upper and classic SPEEDCROSS comfort.",
-    "image": "data:image/jpeg;base64,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",
-    "size": "US 8.5" 
+    "name": "Nike Quest 4 Premium",
+    "description" : "The pursuit of speed continues with the Nike Quest 4 Premium. Take on the streets with higher foam heights and cushioned comfort that combine with a lightweight upper to offer secure support. Intuitive details make it a staple for the everyday runner.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d299fcf2-842a-4d95-9719-a9f3d011b991/quest-4-road-running-shoes-g3Tr03.png",
+    "size": "US 7.5" 
+
+},
+{
+    "id": "6",
+    "name": "Nike Zoom Fly 5",
+    "description" : "Bridge the gap between your weekend training run and race day in a durable design that can be deployed not just at the starting line of your favourite race but in the days and months after your conquest. It offers comfort and reliability but with a propulsive sensation that'll help you feel fast and fresh. That kind of versatility is uncommon in the running arena. But who said you can't have it all?",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63338d09-37f4-4fba-b5a6-052df561fa81/zoom-fly-5-road-running-shoes-4FXXh7.png",
+    "size": "US 6.5" 
+
+},
+{
+    "id": "7",
+    "name": "Nike Pegasus 40",
+    "description" : "A springy ride for any run, the Peg's familiar, just-for-you feel returns to help you accomplish your goals. This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes. Whether you're logging long marathon miles, squeezing in a speed session before the sun goes down or hopping into a spontaneous group jaunt, it's still the established road runner you can put your faith in, day after day, run after run.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e462698f-a806-4b9f-980b-cdd06c4c43b8/pegasus-40-road-running-shoes-1TmxR4.png",
+    "size": "US 7.5" 
+
+},
+{
+    "id": "8",
+    "name": "Nike Vaporfly 3",
+    "description" : "Catch 'em if you can. Giving you race-day speed to conquer any distance, the Nike Vaporfly 3 is made for the chasers, the racers and the elevated pacers who can't turn down the thrill of the pursuit. We reworked the leader of the super shoe pack and tuned the engine underneath to help you chase personal bests from a 10K to marathon. From elite runners to those new to racing, this versatile road-racing workhorse is for those who see speed as a gateway to more miles and more seemingly uncatchable highs.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e335ee63-91bf-4d82-83eb-255b7c811d85/vaporfly-3-road-racing-shoes-VKkc7j.png",
+    "size": "US 7" 
+
+},
+{
+    "id": "9",
+    "name": "Nike Pegasus Trail 4",
+    "description" : "Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Your trusted workhorse with wings is ready for an off-road journey.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c42a4cc9-1672-4759-90b1-8baadd8a413b/pegasus-trail-4-trail-running-shoes-LtLzpn.png",
+    "size": "US 6.5" 
+
+},
+{
+    "id": "10",
+    "name": "Nike Downshifter 12",
+    "description" : "Take those first steps on you running journey in the Nike Downshifter 12. It's got a supportive fit and a stable ride, with a lightweight feel that easily transitions from your workout to hanging out. This one continues our sustainability journey with a design made from at least 20% recycled content by weight. Your trek begins. Lace up and hit the road.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/66b33085-52ac-4ed0-ac99-cfa840ecb7b6/downshifter-12-road-running-shoes-Bq23xl.png",
+    "size": "US 7.5" 
+
+},
+{
+    "id": "11",
+    "name": "Nike InfinityRN 4",
+    "description" : "With supportive cushioning built for a smooth run, the Nike InfinityRN 4 is a brand-new take on a familiar favourite. It's made from our all-new Nike ReactX foam, which gives you 13% more energy return compared to Nike React foam, to help you stay fresh and bouncy. (What's more? Nike ReactX reduces its carbon footprint in a pair of midsoles by at least 43% compared with Nike React foam.*) We coupled the ReactX foam with Nike Running's best-fitting Flyknit yet, so you can feel confident in every stride with soft upper support and breathability. It's the kind of shoe that supports every step in style. *The carbon footprint of ReactX is based on a cradle-to-gate assessment reviewed by PRé Sustainability B.V. and Intertek China. Other midsole components such as airbags, plates or other foam formulations were not considered.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d77a604a-2450-48a0-b7f2-5b5ef5aeb231/infinityrn-4-road-running-shoes-J4G5W1.png",
+    "size": "US 6" 
+
+},
+{
+    "id": "12",
+    "name": "Nike Juniper Trail 2 Next Nature",
+    "description" : "Break away from the norm and dash up that tempting trail in the Nike Juniper Trail 2. Durable material on the top and tough traction on the bottom give you a consistent, confident ride for those off-road runs calling your name. It's built for earthy terrain and unbeaten paths, with reliable traction that'll help keep you on course.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8b4d4fce-fdb3-48fb-88a6-a6ef38c99fb2/juniper-trail-2-next-nature-trail-running-shoes-sPRTRf.png",
+    "size": "US 7.5" 
+
+},
+{
+    "id": "13",
+    "name": "Nike Alphafly 2",
+    "description" : "Once you take a few strides in the Nike Alphafly 2, you'll never look at your favourite pair of old racing shoes the same way again. These rocket ships are made to help shave precious time off your personal records without surrendering the foundation you need to go the full distance. A thick, lightweight support system marries the 2 worlds of comfort and speed in holy running matrimony. Enjoy the greatest energy return of all our racing shoes while you chase your personal bests and leave the competition in the dust.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e0b55a0c-0619-4a43-8790-1d97318ad30b/alphafly-2-road-racing-shoes-6SNnBl.png",
+    "size": "US 6" 
+
+},
+{
+    "id": "14",
+    "name": "Nike Zegama",
+    "description" : "Navigate the up and downs of uncompromising terrain with the Nike Zegama. Developed with great grip and stability, it has you covered, so you can keep climbing and reach greater personal heights when the going gets grimy and gritty. Whether it's a challenging, rocky landscape going uphill or a steep, slick decline down a treacherous trail, feel confident when you decide to off-road it.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4dca28db-7c28-48c6-849a-9bbcb22f26d4/zegama-trail-running-shoes-SQFK85.png",
+    "size": "US 6.5" 
 
 }
+
 
 ]
