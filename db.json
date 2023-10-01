@@ -4,7 +4,7 @@
        "name": "Nike Wildhorse 8",
        "description" : "Hoof it from the bottom of the trail to the top, and handle winding paths, rolling hills, tricky hairpin turns and everything in between in the Nike Wildhorse 8. With an abundance of rugged traction, cushioned responsiveness and trusted containment to help keep you upright, it's made for tough trail runs, the ones with limitless miles and gnarly terrain that are too enticing to turn down.",
        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9550590-f5fa-48f3-95a6-5eb3e58a5153/wildhorse-8-trail-running-shoes-qwnP9v.png",
-       "size": "US 9.5" 
+       "cost": "125 $" 
 
 
 },
@@ -13,7 +13,7 @@
     "name": "Nike Pegasus Turbo",
     "description" : "Let this esteemed stallion help you log the hard miles. Complete with lighter, responsive, repurposed foam and a feather upper, this motley-coloured mare is made to help you increase tempo without sacrificing comfort as you push towards a personal best. This immortal is responsibly constructed with at least 50% recycled material by weight, while maintaining its tried-and-tested everyday ethos.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c9ad65e9-15d2-4acb-bcfd-84ead010b919/pegasus-turbo-road-running-shoes-48Rzt5.png",
-    "size": "US 10.5" 
+    "cost": "140 $" 
 
 
 },
@@ -22,7 +22,7 @@
     "name": "Nike Flex Experience Run 11",
     "description" : "Comfortably zen, just like every run should be. With the Nike Flex Experience Run 11, we created a lightweight, clean design that feels as good as it looks. The shoes are supportive in all the right ways with movement so natural, you'll swear you've been wearing them for years.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/12e2d36a-7aff-40a8-b6b1-4d72486cec67/flex-experience-run-11-road-running-shoes-CLhkcl.png",
-    "size": "US 10.5" 
+    "cost": "110 $" 
 
 
 },
@@ -31,7 +31,7 @@
     "name": "Nike Pegasus Trail 4 GORE-TEX",
     "description" : "The Nike Pegasus Trail 4 GORE-TEX is your running companion for those days when the weather turns. Its waterproof GORE-TEX layer helps keep your feet dry, and less rubber in the outsole creates a smooth transition from road to trail without breaking stride.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/313be351-7e1b-4dbd-a430-0bc4fe380351/pegasus-trail-4-gore-tex-waterproof-trail-running-shoes-DmGWgX.png",
-    "size": "US 9.5" 
+    "cost": "150 $" 
 
 
 },
@@ -40,7 +40,7 @@
     "name": "Nike Quest 4 Premium",
     "description" : "The pursuit of speed continues with the Nike Quest 4 Premium. Take on the streets with higher foam heights and cushioned comfort that combine with a lightweight upper to offer secure support. Intuitive details make it a staple for the everyday runner.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d299fcf2-842a-4d95-9719-a9f3d011b991/quest-4-road-running-shoes-g3Tr03.png",
-    "size": "US 7.5" 
+    "cost": "125 $" 
 
 },
 {
@@ -48,7 +48,7 @@
     "name": "Nike Zoom Fly 5",
     "description" : "Bridge the gap between your weekend training run and race day in a durable design that can be deployed not just at the starting line of your favourite race but in the days and months after your conquest. It offers comfort and reliability but with a propulsive sensation that'll help you feel fast and fresh. That kind of versatility is uncommon in the running arena. But who said you can't have it all?",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63338d09-37f4-4fba-b5a6-052df561fa81/zoom-fly-5-road-running-shoes-4FXXh7.png",
-    "size": "US 6.5" 
+    "cost": "135 $" 
 
 },
 {
@@ -56,7 +56,7 @@
     "name": "Nike Pegasus 40",
     "description" : "A springy ride for any run, the Peg's familiar, just-for-you feel returns to help you accomplish your goals. This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes. Whether you're logging long marathon miles, squeezing in a speed session before the sun goes down or hopping into a spontaneous group jaunt, it's still the established road runner you can put your faith in, day after day, run after run.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e462698f-a806-4b9f-980b-cdd06c4c43b8/pegasus-40-road-running-shoes-1TmxR4.png",
-    "size": "US 7.5" 
+    "cost": "145 $" 
 
 },
 {
@@ -64,7 +64,7 @@
     "name": "Nike Vaporfly 3",
     "description" : "Catch 'em if you can. Giving you race-day speed to conquer any distance, the Nike Vaporfly 3 is made for the chasers, the racers and the elevated pacers who can't turn down the thrill of the pursuit. We reworked the leader of the super shoe pack and tuned the engine underneath to help you chase personal bests from a 10K to marathon. From elite runners to those new to racing, this versatile road-racing workhorse is for those who see speed as a gateway to more miles and more seemingly uncatchable highs.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e335ee63-91bf-4d82-83eb-255b7c811d85/vaporfly-3-road-racing-shoes-VKkc7j.png",
-    "size": "US 7" 
+    "cost": "155 $" 
 
 },
 {
@@ -72,7 +72,7 @@
     "name": "Nike Pegasus Trail 4",
     "description" : "Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Your trusted workhorse with wings is ready for an off-road journey.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c42a4cc9-1672-4759-90b1-8baadd8a413b/pegasus-trail-4-trail-running-shoes-LtLzpn.png",
-    "size": "US 6.5" 
+    "cost": "115 $" 
 
 },
 {
@@ -80,7 +80,7 @@
     "name": "Nike Downshifter 12",
     "description" : "Take those first steps on you running journey in the Nike Downshifter 12. It's got a supportive fit and a stable ride, with a lightweight feel that easily transitions from your workout to hanging out. This one continues our sustainability journey with a design made from at least 20% recycled content by weight. Your trek begins. Lace up and hit the road.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/66b33085-52ac-4ed0-ac99-cfa840ecb7b6/downshifter-12-road-running-shoes-Bq23xl.png",
-    "size": "US 7.5" 
+    "cost": "99 $" 
 
 },
 {
@@ -88,7 +88,7 @@
     "name": "Nike InfinityRN 4",
     "description" : "With supportive cushioning built for a smooth run, the Nike InfinityRN 4 is a brand-new take on a familiar favourite. It's made from our all-new Nike ReactX foam, which gives you 13% more energy return compared to Nike React foam, to help you stay fresh and bouncy. (What's more? Nike ReactX reduces its carbon footprint in a pair of midsoles by at least 43% compared with Nike React foam.*) We coupled the ReactX foam with Nike Running's best-fitting Flyknit yet, so you can feel confident in every stride with soft upper support and breathability. It's the kind of shoe that supports every step in style. *The carbon footprint of ReactX is based on a cradle-to-gate assessment reviewed by PRé Sustainability B.V. and Intertek China. Other midsole components such as airbags, plates or other foam formulations were not considered.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d77a604a-2450-48a0-b7f2-5b5ef5aeb231/infinityrn-4-road-running-shoes-J4G5W1.png",
-    "size": "US 6" 
+    "cost": "165 $" 
 
 },
 {
@@ -96,7 +96,7 @@
     "name": "Nike Juniper Trail 2 Next Nature",
     "description" : "Break away from the norm and dash up that tempting trail in the Nike Juniper Trail 2. Durable material on the top and tough traction on the bottom give you a consistent, confident ride for those off-road runs calling your name. It's built for earthy terrain and unbeaten paths, with reliable traction that'll help keep you on course.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8b4d4fce-fdb3-48fb-88a6-a6ef38c99fb2/juniper-trail-2-next-nature-trail-running-shoes-sPRTRf.png",
-    "size": "US 7.5" 
+    "cost": "110 $" 
 
 },
 {
@@ -104,7 +104,7 @@
     "name": "Nike Alphafly 2",
     "description" : "Once you take a few strides in the Nike Alphafly 2, you'll never look at your favourite pair of old racing shoes the same way again. These rocket ships are made to help shave precious time off your personal records without surrendering the foundation you need to go the full distance. A thick, lightweight support system marries the 2 worlds of comfort and speed in holy running matrimony. Enjoy the greatest energy return of all our racing shoes while you chase your personal bests and leave the competition in the dust.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e0b55a0c-0619-4a43-8790-1d97318ad30b/alphafly-2-road-racing-shoes-6SNnBl.png",
-    "size": "US 6" 
+    "cost": "105 $" 
 
 },
 {
@@ -112,7 +112,7 @@
     "name": "Nike Zegama",
     "description" : "Navigate the up and downs of uncompromising terrain with the Nike Zegama. Developed with great grip and stability, it has you covered, so you can keep climbing and reach greater personal heights when the going gets grimy and gritty. Whether it's a challenging, rocky landscape going uphill or a steep, slick decline down a treacherous trail, feel confident when you decide to off-road it.",
     "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4dca28db-7c28-48c6-849a-9bbcb22f26d4/zegama-trail-running-shoes-SQFK85.png",
-    "size": "US 6.5" 
+    "cost": "155 $" 
 
 }
 
